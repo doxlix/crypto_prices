@@ -1,2 +1,2 @@
 # crypto_prices
-I've used script to collect price data from [CoinMarketCap](https://coinmarketcap.com) to create a [Tableau Dashboard](https://public.tableau.com/app/profile/aleksandr.lazutin/viz/Crypto_project/Dashboard1?publish=yes) (Currently in progress)
+I've used script to collect price data from [CoinMarketCap](https://coinmarketcap.com) to create a [Tableau Dashboard]([https://public.tableau.com/app/profile/aleksandr.lazutin/viz/Crypto_project/Dashboard1?publish=yes](https://public.tableau.com/views/Crypto_project_16962053147370/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/Crypto_project_16962053147370/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
